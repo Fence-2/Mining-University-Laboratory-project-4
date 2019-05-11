@@ -1,0 +1,14 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\ex4.1\bin\Debug\ex4.1.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\ex4.1\obj\Debug\ex4.1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ex4.1\obj\Debug\ex4._1.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex4.1\obj\Debug\ex4._1.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex4.1\obj\Debug\ex4.1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\bin\Debug\ex4.1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4.1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4._1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4._1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4.1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\bin\Debug\ex4.1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\bin\Debug\ex4.1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4.1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex4.1\ex4.1\obj\Debug\ex4.1.pdb
